@@ -1,5 +1,5 @@
 # ZoomAuto
-Automatically join and end a zoom call/meeting at a specific. All that the user must do it add the zoom link, time of when to start and end, and set a key bind to end the
+Automatically join and end a zoom call/meeting at a specific time. All that the user must do it add the zoom link, time of when to start and end, and set a key bind to end the
 meeting.
 
 **Note:**
